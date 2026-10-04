@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Frontend engineering guidelines
+
+Read [FRONTEND_INSTRUCTIONS.md](./FRONTEND_INSTRUCTIONS.md) for NOOK's frontend architecture and coding standards before creating, modifying, or refactoring frontend code.
+
 ## Getting Started
 
 First, run the development server:
